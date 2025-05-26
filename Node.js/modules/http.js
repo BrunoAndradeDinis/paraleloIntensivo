@@ -20,7 +20,7 @@ const server = http.createServer((req, res) => {
       },
       {
         name: "Brinu Andrade",
-        email: "jhondoe@email.com",
+        email: "brinu@email.com",
       },
     ];
     res.writeHead(200, { "Content-Type": "application/json" });
